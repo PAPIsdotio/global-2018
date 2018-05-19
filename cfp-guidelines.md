@@ -1,17 +1,15 @@
 # Call for Proposals
 
-PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, São Paulo, and PAPIs is now coming to London! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/europe](http://www.papis.io/europe).
+PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/2018](http://www.papis.io/2018).
 
 ## Key dates
 
-- ~~January 21 (23:59 GMT): Main Call for Proposals closes~~
-- **February 5**: Notifications of acceptance/rejection due
-- **March 5**: Lightning Talk and AI Startup Battle application deadline
-- **April 5-6**: Conference takes place in London
+- **July 1 (23:59 ET)**: Call for Proposals closes
+- **July 16**: Notifications of acceptance/rejection due
+- **September 16**: Lightning Talk and AI Startup Battle application deadline
+- **October 16-17**: Conference takes place in Boston
 
-Our main call for proposals ended on January 21 but we'll be accepting late proposals (in case gaps open in the program) and Lighting Talk proposals until March 5.
-
-This year we'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
+We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
 
 ## [Sign up here to get updates!](http://www.papis.io/#updates)
 
@@ -29,15 +27,15 @@ We welcome technical and non-technical presentations with a practical mindset, o
 - Exciting and innovative ML use cases
 - Hands-on tutorials that teach a specific and valuable skill
 
-We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long,  non-commercial presentations** (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one.)_
+We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long, non-commercial presentations** (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, review papers and research papers. They should be submitted along with presentation proposals (papers are not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+We welcome technical papers, industrial experience reports, review papers and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work in this format as well. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**. Get more information about the submission process [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
 ### Startups
 
-PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a [separate platform](https://docs.google.com/forms/d/e/1FAIpQLScnnDQmDfxLFQBMnKRMlIxXQQZFjBKquhVsexgWxtEMxdishQ/viewform).
+PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
 
 ## Tips and rules
 
@@ -45,7 +43,7 @@ You can find tips on how to craft a good proposal, how to submit it, and some ru
 
 ## We’re looking forward to receiving your best proposals!
 
-If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-europe-2018@papis.mailclark.ai).
+If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-2018@papis.mailclark.ai).
 
 ### Acknowledgements
 
