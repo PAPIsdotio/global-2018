@@ -29,17 +29,19 @@ We welcome technical and non-technical presentations with a practical mindset, o
 
 We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long, non-commercial presentations** (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
+#### Tips and rules
+
+You can find tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
+
 ### Papers
 
-We welcome technical papers, industrial experience reports, review papers and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work in this format as well. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**. Get more information about the submission process [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
+We welcome technical papers, industrial experience reports, review papers and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work in this format as well. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
+
+Get more information about the submission process [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
 ### Startups
 
 PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
-
-## Tips and rules
-
-You can find tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
 
 ## We’re looking forward to receiving your best proposals!
 
