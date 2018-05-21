@@ -17,7 +17,9 @@ We'd like to **strongly encourage women to submit proposals**. As a community co
 
 ### Presentations
 
-We welcome technical and non-technical presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We'd like to hear about:
+We're looking for presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We welcome non-technical content, but also strongly encourage very technical presentations.
+
+We'd like to hear about:
 
 - Challenges and lessons learnt in integrating ML into various applications/products/processes and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, ethics, etc.
 - Failure stories — you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
