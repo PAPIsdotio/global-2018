@@ -29,17 +29,17 @@ We welcome technical and non-technical presentations with a practical mindset, o
 - Exciting and innovative ML use cases
 - Hands-on tutorials that teach a specific and valuable skill
 
-We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long, non-commercial presentations** (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
+We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of 20' long, non-commercial presentations (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
-#### Tips and rules
+We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation.
 
-You can find tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
+**Please consult our [Tips and Rules](https://github.com/PAPIsdotio/global-2018/blob/master/cfp-guidelines.md) for advice on how to craft a good proposal and examples of presentations from previous PAPIs conferences.**
 
 ### Papers
 
 We welcome technical papers, industrial experience reports, review papers and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work in this format as well. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
 
-Get more information about the submission process [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
+**Get more information about paper submission in our [Tips and Rules](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).**
 
 ### Startups
 
