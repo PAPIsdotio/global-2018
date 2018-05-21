@@ -1,6 +1,8 @@
-# Call for Proposals
+# Call for Proposals — PAPIs '18
 
-PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/2018](http://www.papis.io/2018).
+PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition (PAPIs '18) will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/2018](http://www.papis.io/2018).
+
+⚠️ _The CfP submission app isn't live yet, but we invite you to read our guidelines and to start preparing draft proposals based on the information below._
 
 ## Key dates
 
