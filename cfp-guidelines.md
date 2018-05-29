@@ -17,23 +17,9 @@ We'd like to **strongly encourage women to submit proposals**. As a community co
 
 ### Presentations
 
-We're looking for presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We welcome non-technical content, but also strongly encourage very technical presentations.
+We're looking for presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. They can be very technical or non-technical (see our conference tracks below). We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **non-commercial presentations**. _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
-We'd like to hear about:
-
-- Challenges and lessons learnt in integrating ML into various applications/products/processes and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, ethics, etc.
-- Failure stories — you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
-- Techniques, architectures, infrastructures, pipelines, frameworks, APIs to create or improve intelligent applications (from embedded to web-scale)
-- Design of ML-powered products
-- Tools to make it easier to integrate ML into real-world products/applications (with demos)
-- Exciting and innovative ML use cases
-- Hands-on tutorials that teach a specific and valuable skill
-
-We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long, non-commercial presentations** (5' for Lightning Talks). _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
-
-#### Tips and rules
-
-You can find tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
+We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their significance and/or clarity of presentation. Please look at the guidelines for each of our conference tracks below, in order to identify which one is best suited for your proposal. You can also find tips on how to craft a good proposal, how to submit it, and our rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
 ### Papers
 
@@ -43,7 +29,25 @@ Get more information about the submission process [here](https://github.com/PAPI
 
 ### Startups
 
-PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
+PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury! We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
+
+## Tracks
+
+### Applying ML in the real-world (everyone)
+
+This track is for everyone who's interested in the integration of ML into real-world applications — from engineers and scientists to managers. It will feature presentations of ML use cases in new areas and discussions on the challenges and lessons learnt in integrating ML into various applications/products. This can include domain-specific challenges, as well as those related to product design, transparency, privacy, fairness, accountability, ethics, etc. We would like to also encourage the community to share their failure stories — after all, you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
+
+### ML engineering (technical)
+
+This track is dedicated to discussions on the more technical challenges and lessons learnt from experience in deploying ML systems in production. It is targeted at software developers and ML engineers. It will feature presentations of techniques, architectures, infrastructures, pipelines, frameworks, APIs to create or improve intelligent applications (from embedded to web-scale). We strongly encourage very technical content for this track.
+
+### New ML techniques (technical + advanced)
+
+This is our second technical track, targeted at the most experienced professionals who have an advanced knowledge of ML. It is dedicated to the presentation of innovations and applied research which are the future of the industry. Proposals for this track will be evaluated on the basis of their novelty.
+
+### Tools (everyone / no slides allowed)
+
+This track will be featuring demos of tools that make it easier to integrate ML into real-world products/applications and to deploy it at scale. We welcome open source or freely accessible tools. We will also select demos of proprietary tools as long as the presentations are not commercial, engaging, practical, or teach how to do a specific task.
 
 ## We’re looking forward to receiving your best proposals!
 
