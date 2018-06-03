@@ -53,6 +53,13 @@ This track will be featuring demos of tools that make it easier to integrate ML 
 
 If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-2018@papis.mailclark.ai).
 
+### Program Committee
+
+- Sunanda Koduvayur, Program Chair
+- Louis Dorard, General Chair
+
+Reviewers: TBA
+
 ### Acknowledgements
 
-This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). Many thanks to [Joan Capdevila Pujol](http://personals.ac.upc.edu/jc/) for his help in setting it up!
+This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). These guidelines were inspired from those of our previous conferences — many thanks to everyone who provided feedback and to all of our previous Program Chairs: Francisco Martin, Florian Douetteau, Keiran Thompson, Alastair Moore, Paula Fadul, Thierry Silbermann.
