@@ -1,6 +1,6 @@
-# Call for Proposals
+# Call for Proposals — PAPIs '18
 
-PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/2018](http://www.papis.io/2018).
+PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition (PAPIs '18) will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more about the conference at [papis.io/2018](http://www.papis.io/2018) and submit proposals at [cfp.papis.io/events/2018](http://cfp.papis.io/events/2018).
 
 ## Key dates
 
@@ -11,7 +11,7 @@ PAPIs is the international series of community conferences dedicated to **real-w
 - **October 16-17**: Conference takes place in Boston
 - **November 16**: Full papers due for proceedings (optional)
 
-We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
+We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](https://www.papis.io/sponsoring) to support our diversity efforts!
 
 ## [Sign up here to get updates!](http://www.papis.io/#updates)
 
