@@ -4,7 +4,7 @@ PAPIs is the international series of community conferences dedicated to **real-w
 
 ## Key dates
 
-- **July 1 (23:59 ET)**: Call for Proposals closes
+- **July 1 (23:59 GMT)**: Call for Proposals closes
 - **July 16**: Notifications of acceptance/rejection due
 - **July 23**: Author confirmations due
 - **September 16**: Lightning Talk and AI Startup Battle application deadline
@@ -25,11 +25,11 @@ This track is for everyone who's interested in the integration of ML into real-w
 
 This track is targeted at Software Developers, ML Engineers, and ScienceOps professionals (DevOps for Data Science). It is dedicated to discussions on the technical challenges of deploying ML systems in production, and lessons learnt from experience. We invite industry participants to describe their war stories and the architectures, pipelines, frameworks, APIs, etc., that they built to create or improve intelligent applications. Proposals for this track should be technical. They can range from ML beginner-friendly how-tos to deep dives for more experienced professionals. Presentations will be 20' long, plus 5' for Q&A.
 
-### New ML techniques (technical + advanced) — October 17
+### New ML techniques (technical) — October 17
 
 This is our second technical track, targeted at the most experienced practitioners who have an advanced knowledge of ML. It is dedicated to the presentation of innovations, applied research, and new ML techniques that have the potential to take the industry further. Proposals for this track will be evaluated on the basis of their novelty. Presentations will be 20' long, plus 5' for Q&A.
 
-### Tools (demos & tutorials) — October 17
+### Tools — October 17
 
 This track will feature 10' demos and 30' tutorials of tools and APIs that make it easier to experiment with ML, integrate it into real-world products/applications, or to deploy it at scale. If you need to show slides during your presentation, please limit them to the strict minimum. We particularly welcome tools which are open source, or freely accessible. We will also select demos of proprietary tools as long as the presentations are not commercial, they are engaging, practical, or teach how to do a specific task with the tool being demonstrated.
 
