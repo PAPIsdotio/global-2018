@@ -94,7 +94,7 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 
 - **Speaking slot**:
   - Keynote: 20' presentation in opening or closing session
-  - Showcase: 10' presentation
+  - Spotlight talk: 20' presentation in a parallel track
 - **Visibility:**
   - Regular:
     - Mentions in announcements
