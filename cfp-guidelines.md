@@ -6,10 +6,12 @@ PAPIs is the international series of community conferences dedicated to **real-w
 
 ## Key dates
 
-- **July 1 (23:59 ET)**: Call for Proposals closes
-- **July 16**: Notifications of acceptance/rejection due
+- **July 1 (23:59 GMT)**: Call for Proposals closes
+- **July 16**: Notifications of acceptance/rejection due (Program Committee)
+- **July 23**: Confirmations/withdrawals due (Authors)
 - **September 16**: Lightning Talk and AI Startup Battle application deadline
 - **October 16-17**: Conference takes place in Boston
+- **November 16**: Full papers due for proceedings (optional)
 
 We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](https://www.papis.io/sponsoring) to support our diversity efforts!
 
