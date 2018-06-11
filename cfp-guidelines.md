@@ -11,7 +11,7 @@ PAPIs is the international series of community conferences dedicated to **real-w
 - **September 16**: Lightning Talk and AI Startup Battle application deadline
 - **October 16-17**: Conference takes place in Boston
 
-We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
+We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](https://www.papis.io/sponsoring) to support our diversity efforts!
 
 ## [Sign up here to get updates!](http://www.papis.io/#updates)
 
@@ -47,7 +47,7 @@ We welcome technical papers, industrial experience reports, review papers and re
 
 ### Startups
 
-PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
+PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury! We're looking for new startups that have AI / ML at their core. Selected startups will be able to present on stage and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
 
 ## We’re looking forward to receiving your best proposals!
 
