@@ -128,27 +128,25 @@ The amounts below are tax-free. Early-stage startups of less than 2 years who ha
 * Gold sponsorship: 10,000 USD
 * Silver sponsorship: 5,000 USD
 
-<!-- The table below is only needed for the printable version. It should be ommitted from the online version of the agreement. -->
-
 <table style="border: 0; border-spacing: 10px; width: 100%; text-align: center;">
-        <tbody><tr>
-                <th></th>        
-          <th>Sponsor</th>
-          <th>Organizer</th>
-        </tr>
-        <tr>
-          <td>Name:</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>Signature:</td>
-          <td>&nbsp;<br>&nbsp;</td>
-          <td>&nbsp;<br>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>Date:</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
+  <tr>
+    <th></th>
+    <th>Sponsor</th>
+    <th>Organizer</th>
+  </tr>
+  <tr>
+    <td>Name:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Signature:</td>
+    <td>&nbsp;<br>&nbsp;</td>
+    <td>&nbsp;<br>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Date:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
 </table>
