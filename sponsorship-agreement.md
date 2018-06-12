@@ -20,11 +20,11 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 
 **Timeline:**
 
-1. Sponsor shall fill in the form at <https://papisdotio.wufoo.com/forms/q1php0ya1ojvum6/> (“Form”)
-1. Organizer shall send invoice after receipt of the Form and payment.
-1. Organizer shall start providing benefits, according to best practices and in the best way possible.
-1. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-1. Conference will take place from October 16, 2018 at 9am to October 17, 2018 at 3.30pm ET – East Time, at which point this Agreement will be deemed to be fully completed.
+1. Sponsor shall fill in the form at [https://papisdotio.wufoo.com/forms/q1php0ya1ojvum6/](https://papisdotio.wufoo.com/forms/q1php0ya1ojvum6/) (“Form”)
+2. Organizer shall send invoice after receipt of the Form and payment.
+3. Organizer shall start providing benefits, according to best practices and in the best way possible.
+4. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
+5. Conference will take place from October 16, 2018 at 9am to October 17, 2018 at 3.30pm ET – East Time, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
