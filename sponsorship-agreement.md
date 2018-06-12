@@ -94,7 +94,6 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 * **Speaking slot**:
   * Keynote: 20' presentation in opening or closing session
   * Talk: 20' presentation in a parallel track
-  * Demo: 5' or 10' demo in tools track
 * **Visibility:**
   * Regular:
     * Mentions in announcements
