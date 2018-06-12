@@ -125,8 +125,8 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 
 The amounts below are tax-free. Early-stage startups of less than 2 years who have raised less than 1M USD in funding can get a discount of 50% on the amounts below (limited availability). Startups of less than 4 years who have raised less than 25M USD in funding can get a discount of 30% on the amounts below (limited availability).
 
-- Gold sponsorship: 10000 USD
-- Silver sponsorship: 5000 USD
+* Gold sponsorship: 10,000 USD
+* Silver sponsorship: 5,000 USD
 
 <!-- The table below is only needed for the printable version. It should be ommitted from the online version of the agreement. -->
 
