@@ -8,7 +8,7 @@ Sponsorship agreement between Sponsor and
 
 * Type of company: SCOP à Responsabilité Limitée à capital variable
 * Incorporation number: Siret 48237148100029 – APE 7022Z - Bordeaux, France
-* Address: 1 avenue de la Libération, 33310 Lormont, France
+* Address: 3 rue Cantelaudette, 33310 Lormont, France
 * Represented by Ms Karine LABAT PAPIN, Gérante
 * Delegates the execution to Dr Louis DORARD, PAPIs.io General Chair, Member of the Coop’Alpha cooperative
 
