@@ -55,11 +55,23 @@ If you have questions or if you have not heard about the status of your submissi
 
 ### Program Committee
 
-- Sunanda Koduvayur, Program Chair
-- Louis Dorard, General Chair
-- Sudarshan Raghunathan, Local Chair
+- [Sunanda Koduvayur](https://www.linkedin.com/in/sunandakp/) (Wayfair) - Program Chair
+- [Sudarshan Raghunathan](https://www.linkedin.com/in/drdarshan/) (Microsoft) - Local Chair
+- [Sharat Chikkerur](https://www.linkedin.com/in/sharatchikkerur/) (Microsoft) - Chair of the _ML Engineering & ScienceOps_ track
+- [Louis Dorard](http://linkedin.com/in/louisdorard) (UCL) - General Chair
 
-Reviewers: TBA
+Reviewers:
+
+- [Alex Casalboni](https://www.linkedin.com/in/alexcasalboni/) (AWS)
+- [Alexia Audevart](https://www.linkedin.com/in/alexia-audevart-450b8a1/) (datactik)
+- [Anika Mukherjee](https://www.linkedin.com/in/anikamukherjee/) (University of Ottawa)
+- [Beth Logan](https://www.linkedin.com/in/bethlogan/) (Dataxu)
+- [Cibele Montez Halasz](https://www.linkedin.com/in/cibele-montez-halasz/) (Twitter)
+- [Claire Hardgrove](https://www.linkedin.com/in/cvhardgrove/) (University of Sydney)
+- [Daniel E Hernandez](https://www.linkedin.com/in/daniel-hernandez-44137a4/) (Instituto Tecnológico de Tijuana)
+- [Francisco Martin](https://www.linkedin.com/in/cisko/) (BigML)
+- Leonardo Trujillo (Instituto Tecnológico de Tijuana)
+- [Libby Kinsey](https://www.linkedin.com/in/libbykinsey/) (Project Juno)
 
 ### Acknowledgements
 
