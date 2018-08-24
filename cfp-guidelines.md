@@ -4,9 +4,9 @@ PAPIs is the international series of community conferences dedicated to **real-w
 
 ## Key dates
 
-- **July 1 (23:59 GMT)**: Call for Proposals closes
-- **July 16**: Notifications of acceptance/rejection due (Program Committee)
-- **July 23**: Confirmations/withdrawals due (Authors)
+- ~~July 5 (23:59 GMT): Main call for proposals closes~~
+- ~~July 16: Notifications of acceptance/rejection due~~
+- ~~July 23: Author confirmations due~~
 - **September 16**: Lightning Talk and AI Startup Battle application deadline
 - **October 16-17**: Conference takes place in Boston
 - **November 16**: Full papers due for proceedings (optional)
@@ -56,7 +56,6 @@ If you have questions or if you have not heard about the status of your submissi
 ### Program Committee
 
 - [Sunanda Koduvayur](https://www.linkedin.com/in/sunandakp/) (Wayfair) - Program Chair
-- [Sudarshan Raghunathan](https://www.linkedin.com/in/drdarshan/) (Microsoft) - Local Chair
 - [Sharat Chikkerur](https://www.linkedin.com/in/sharatchikkerur/) (Microsoft) - Chair of the _ML Engineering & ScienceOps_ track
 - [Louis Dorard](http://linkedin.com/in/louisdorard) (UCL) - General Chair
 
@@ -68,10 +67,16 @@ Reviewers:
 - [Beth Logan](https://www.linkedin.com/in/bethlogan/) (Dataxu)
 - [Cibele Montez Halasz](https://www.linkedin.com/in/cibele-montez-halasz/) (Twitter)
 - [Claire Hardgrove](https://www.linkedin.com/in/cvhardgrove/) (University of Sydney)
+- [Dan Nichol](https://www.linkedin.com/in/daniel-nichol-baa70954/) (The Institute of Cancer Research)
 - [Daniel E Hernandez](https://www.linkedin.com/in/daniel-hernandez-44137a4/) (Instituto Tecnológico de Tijuana)
-- [Francisco Martin](https://www.linkedin.com/in/cisko/) (BigML)
+- [Greg Antell](https://www.linkedin.com/in/gregorycantell/) (BigML)
+- [Izabela Paulino Fonseca](https://www.linkedin.com/in/izabela-paulino-fonseca/) (TOTVS)
 - Leonardo Trujillo (Instituto Tecnológico de Tijuana)
 - [Libby Kinsey](https://www.linkedin.com/in/libbykinsey/) (Project Juno)
+- [Pierre Gutierrez](https://www.linkedin.com/in/pierre-gutierrez-aaa92727/) (Scortex)
+- [Sébastien Treguer](https://www.linkedin.com/in/sebastien-treguer-8121625/) (Aphinao)
+- [Tyler Richie](https://www.linkedin.com/in/tyler-richie-1096b58/) (TenX)
+- [Vitor Falleiros](https://www.linkedin.com/in/vbfall/) (Dessa)
 
 ### Acknowledgements
 
